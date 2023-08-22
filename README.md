@@ -1,8 +1,8 @@
+<div_ id = "header" aling = "center">
+  <img src = "https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="600" height="334">
+</div>
 <div>
   <h1>Hi there 👋, I'm Kef</h1>
-</div>
-<div_ id = "header" aling = "center">
-  <img src = "https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="480" height="334">
 </div>
   
 <!--
