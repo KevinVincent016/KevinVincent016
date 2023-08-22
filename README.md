@@ -2,10 +2,9 @@
   <h1>Hi there 👋, I'm Kef</h1>
 </div>
 <div_ id = "header" aling = "center">
-  <img src = "https://giphy.com/embed/gFmkpNCar7TSoauRUs" width="480" height="334">
+  <img src = "https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="480" height="334">
 </div>
-
-
+  
 <!--
 **KevinVincent016/KevinVincent016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
