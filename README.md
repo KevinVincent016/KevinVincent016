@@ -1,7 +1,11 @@
 <div align = "center">
-  <h1>Hi there 👋, I'm Kef</h1>
+  <h1>Hi there 👋, Welcome to Kef profile</h1>
   🍃 As the wind goes, my code flows 🍃
 </div>
+
+<p align="center">
+  <a href="https://github.com/KevinVincent016/KevinVincent016"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kef;I+am+a+university+student;Amateur+3d+Modeler;Java+Lover+%3C3"></a>
+</p>
 
 ![🍃 As the wind goes, my code flows 🍃](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpmMGhyMm1mNmZxbGk2eHB6c3ptbmZ1azFrZnN6ZHppcG1oMjVqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
