@@ -1,25 +1,27 @@
-<div align = "center">
-  <h1>Hi there 👋, Welcome to Kef profile</h1>
-</div>
-
-<p align="center">
-  <a href="https://github.com/KevinVincent016/KevinVincent016"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kef;I+am+a+university+student;Amateur+3d+Modeler;Java+Lover+%3C3"></a>
-</p>
-
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
+<div align = "center">
+  <h1>Hi there 👋, Welcome to Kef profile</h1>
+</div>
+
+<p align="center">
+  <a href="https://github.com/KevinVincent016/KevinVincent016"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kef;I+am+a+university+student;Amateur+3d+Modeler;Java+Enjoyer+:D;Apprentice+of+life+%3C3"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KevinVincent016&label=Profile%20views&color=0e75b6&style=flat" alt="KevinVincent016" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-I'm a passionate systems engineering student who enjoys coding. When I'm not diving into coding challenges, I'm satisfying my curiosity by delving into the world of 3D modeling.
+<h4>I'm a passionate systems engineering student who enjoys coding. When I'm not diving into coding challenges, I'm satisfying my curiosity by delving into the world of 3D modeling.</h4>
+
+<h4>I am currently studying systems engineering and I am a fan of technological advances and I try to be as updated as possible, since I believe that such advances are capable of improving our quality of life.</h4>
  
-- 🌱 I’m currently learning Python and 3D modeling on Blender
-- 📫 How to reach me: mail me at kevinvincentvl016@gmail.com
-- ⚡ Fun fact: I usually spend my free time modeling in blender, the only thing is that my PC is not powerful enough to texture my creations😅  
+<h4>- 🌱 I’m currently learning Python and 3D modeling on Blender</h4>
+<h4>- 📫 How to reach me: mail me at kevinvincentvl016@gmail.com</h4>
+<h4>- ⚡ Fun fact: I usually spend my free time modeling in blender, the only thing is that my PC is not powerful enough to texture my creations😅</h4>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
