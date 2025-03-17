@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -19,7 +19,7 @@
 
 <h4>I am currently studying systems engineering and I am a fan of technological advances and I try to be as updated as possible, since I believe that such advances are capable of improving our quality of life.</h4>
  
-<h4>- 🌱 I’m currently learning Python and 3D modeling on Blender</h4>
+<h4>- 🌱 I’m currently learning NodeJS and 3D modeling on Blender</h4>
 <h4>- 📫 How to reach me: mail me at kevinvincentvl016@gmail.com</h4>
 <h4>- ⚡ Fun fact: I usually spend my free time modeling in blender, the only thing is that my PC is not powerful enough to texture my creations😅</h4>
 
